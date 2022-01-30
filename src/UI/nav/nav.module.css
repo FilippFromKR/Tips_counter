@@ -1,0 +1,9 @@
+.myNav{
+    width: 100%;
+    color: black;
+position: absolute;
+    height: 10%;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+}

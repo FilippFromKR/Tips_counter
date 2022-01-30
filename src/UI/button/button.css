@@ -1,0 +1,15 @@
+.button{    border: 1px solid cadetblue ;
+    color: cadetblue;
+    size: 25px;
+    padding: 14px;
+    border-radius: 25%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    float: left;
+    display: inline-block;
+
+}
+.button:hover{
+    background-color: cadetblue;
+    color: white;
+}

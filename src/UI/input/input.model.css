@@ -1,0 +1,9 @@
+.myInput{
+border: none;
+    width: 50%;
+    height: 30px;
+    background: inherit;
+    font-size: 25px;
+    border-bottom: 2px solid cadetblue;
+
+}
